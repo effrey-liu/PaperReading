@@ -1,0 +1,12 @@
+# Documents
+*.pdf
+*.docx
+*.doc
+*.txt
+
+
+# Directories
+paper/*
+RKNN/*
+ideas/*
+Before/*
